@@ -1,6 +1,6 @@
-# flutter_application_3
+#Brew_Crew
 
-A new Flutter project.
+A new Flutter project using firebase at backend for authentication and data storage
 
 ## Getting Started
 
